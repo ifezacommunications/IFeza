@@ -1,1 +1,2 @@
-# IFeza
+mkdir ifezacommunications
+cd ifezacommunications
